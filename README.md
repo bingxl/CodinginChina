@@ -13,6 +13,7 @@ Due to the well-known reason, the coding style in China is different from that i
 - [Composer](Composer.md)
 - [Golang](Golang.md)
 - [Oh-My-Zsh](oh-my-zsh.md)
+- [Rust](Rust.md)
 
 ## Reference
 
@@ -31,3 +32,4 @@ Due to the well-known reason, the coding style in China is different from that i
 15. [oh-my-zsh国内镜像安装](https://igmainc.github.io/2021/04/17/oh-my-zsh%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E5%AE%89%E8%A3%85.html)
 16. [Oh my zsh with autosuggestions & syntax-highlighting.md](https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95)
 17. [Command duplicated on tab completion with oh-my-zsh and Hyper #300](https://github.com/sindresorhus/pure/issues/300)
+18. [rsproxy](https://rsproxy.cn/)
